@@ -1,4 +1,4 @@
-# Feedback for Prisma Cloud
+# Feedback for Prisma 1 Cloud
 
 This repository is the central place to collect feedback and issues related to [Prisma Cloud](https://www.prisma.io/cloud) and the [Prisma Console](https://app.prisma.io/).
 
