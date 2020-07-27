@@ -1,5 +1,5 @@
 # Feedback for Prisma 1 Cloud
 
-This repository is the central place to collect feedback and issues related to [Prisma Cloud](https://www.prisma.io/cloud) and the [Prisma Console](https://app.prisma.io/).
+⚠️ **This repo is not active any more** ⚠️ 
 
-Please [**open an issue**](https://github.com/prisma/prisma-cloud-feedback/issues/new) if you want to leave feedback.
+Please open an issue in the [`prisma1`](https://github.com/prisma/prisma1) repo if you have any feedback for the Prisma 1 Cloud.
